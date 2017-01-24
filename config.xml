@@ -7,14 +7,14 @@
 
     <!-- versionCode is optional and Android only -->
 
-    <name>ScratchNapped</name>
+    <name>Floppy Fish</name>
 
     <description>
         Ann app made using Scratch, Phonegap, github, and PhoneGap
     </description>
 
     <author href="http://scratch.mit.edu/users/cs612516" email="448107@student.perryschools.org">
-        [Your Username]
+        cs612516
     </author>
 
 </widget>
